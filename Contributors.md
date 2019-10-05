@@ -16,7 +16,7 @@
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
 - [Ankitkumar Singh] (https://github.com/3009aksingh)
 - [Heidi]
-- [Ritik Raj Raman](http://github.com/ritik-07)
+- [Ritik Raj Raman] (http://github.com/ritik-07)
 - [Annie Chen](https://github.com/achen6159
 - [Julius Miyumo](https://github.com/Julius-777)
 - [Ahmed Omar](https://github.com/ahmedo42)
