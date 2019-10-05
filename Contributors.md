@@ -316,6 +316,7 @@
 - [bernheder](https://github.com/bernheder)
 - [Michael Seche](https://github.com/mseche)
 - [Kyle Knickerbocker](https://github.com/ckylek)
+- [Ritik Raj Raman](http://github.com/ritik-07)
 - [Yves Courteau](https://github.com/kourto)
 - [Guilherme Balog](https://github.com/guilhermebalog)
 - [Gustavo Castro](https://github.com/gacsnic)
